@@ -7,6 +7,7 @@
 - [Predicting drug-target interaction using 3D structure-embedded graph representations from graph neural networks](https://arxiv.org/pdf/1904.08144.pdf)
 - [Accurate In Silico Prediction of	Ligand Binding Potency in	Therapeutic	Targets using	Quantum	Molecular	Design](http://www.cloudpharmaceuticals.com/uploads/5/9/1/9/59199625/cloud_pharmaceuticals_white_paper.lie_2016.pdf)
 - [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/pdf/1510.02855.pdf)
+- [Artificial neural networks for immunological recognition](https://arxiv.org/pdf/1808.03386.pdf)
 
 ### Databases
 
@@ -18,3 +19,7 @@
 - [PDBbind-CN](http://www.pdbbind.org.cn/)
 - [AIDS Antiviral Screen Data](https://wiki.nci.nih.gov/display/NCIDTPdata/AIDS+Antiviral+Screen+Data)
 - [DUD-E](http://dude.docking.org/)
+
+### Clinical Trials for GBM
+
+[Overview](https://docs.google.com/spreadsheets/d/1u139bl-cmLiKLCdp1fKRFbInyb9RKbhSuP7jHBD7Qp8/edit#gid=0)
