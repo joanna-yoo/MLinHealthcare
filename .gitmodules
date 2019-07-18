@@ -1,0 +1,9 @@
+[submodule "research_repos/GenomonPipeline"]
+	path = research_repos/GenomonPipeline
+	url = git@github.com:Genomon-Project/GenomonPipeline.git
+[submodule "research_repos/Texomer"]
+	path = research_repos/Texomer
+	url = git@github.com:KChen-lab/Texomer.git
+[submodule "research_repos/tcr_classifier"]
+	path = research_repos/tcr_classifier
+	url = https://github.com/naity/tcr_classifier.git
