@@ -9,6 +9,9 @@
 - [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/pdf/1510.02855.pdf)
 - [Artificial neural networks for immunological recognition](https://arxiv.org/pdf/1808.03386.pdf)
 
+### Articles
+- [Predicting T Cell Receptor Specificity with Deep Learning](https://becominghuman.ai/predicting-t-cell-receptor-specificity-with-deep-learning-12757a899e8b)
+
 ### Databases
 
 - [VDJdb](https://github.com/antigenomics/vdjdb-db)
