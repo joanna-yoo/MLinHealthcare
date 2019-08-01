@@ -11,6 +11,7 @@
 
 ### Articles
 - [Predicting T Cell Receptor Specificity with Deep Learning](https://becominghuman.ai/predicting-t-cell-receptor-specificity-with-deep-learning-12757a899e8b)
+- [Alphafold](https://deepmind.com/blog/alphafold/)
 
 ### Databases
 
