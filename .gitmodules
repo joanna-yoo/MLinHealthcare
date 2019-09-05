@@ -7,3 +7,6 @@
 [submodule "research_repos/tcr_classifier"]
 	path = research_repos/tcr_classifier
 	url = https://github.com/naity/tcr_classifier.git
+[submodule "research_repos/GENTRL"]
+	path = research_repos/GENTRL
+	url = git@github.com:insilicomedicine/GENTRL.git
