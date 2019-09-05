@@ -9,4 +9,4 @@
 	url = https://github.com/naity/tcr_classifier.git
 [submodule "research_repos/GENTRL"]
 	path = research_repos/GENTRL
-	url = https://github.com/insilicomedicine/GENTRL.git
+	url = git@github.com:insilicomedicine/GENTRL.git
