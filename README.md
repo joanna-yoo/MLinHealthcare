@@ -41,6 +41,7 @@
 - [PDBbind-CN](http://www.pdbbind.org.cn/)
 - [AIDS Antiviral Screen Data](https://wiki.nci.nih.gov/display/NCIDTPdata/AIDS+Antiviral+Screen+Data)
 - [DUD-E](http://dude.docking.org/)
+- [STCRDab](http://opig.stats.ox.ac.uk/webapps/stcrdab/Seq?hits=10&seqid=100&beta=&alpha=&region=ba)
 
 ### Clinical Trials for GBM
 
